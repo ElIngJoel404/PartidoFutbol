@@ -1,0 +1,7 @@
+5. Predicción del resultado de un partido
+Objetivo:
+Estimar la probabilidad de victoria, empate o derrota de un equipo según estadísticas previas (posesión, tiros, goles esperados).
+Subtemas aplicados:
+Simulación Monte Carlo, distribución Poisson (para goles), probabilidad compuesta.
+Resultados esperados:
+Porcentaje de escenarios favorables, marcador más probable.
